@@ -22,12 +22,12 @@
 			technical execution. Mohsen is proficient in a variety of web development technologies,
 			including HTML, CSS, JavaScript, and Svelet. He is also an experienced game developer with a
 			strong understanding of game engines such as Bevy Engine. Mohsen is passionate about sharing
-			his knowledge and helping others succeed. He is ...<br />
+			his knowledge and helping others succeed. He is ...
 		</p>
 		<a
 			href="https://github.com/Chapan-Harder"
-			class="flex justify-center text-[#dcb9cd] text-2xl font-serif font-semi-bold uppercase transition ease-in-out hover:scale-110 hover:text-[#f1d5b2]"
-			>link</a
+			class="flex justify-center text-[#dcb9cd] pt-6 text-2xl font-serif font-semi-bold capitalize transition ease-in-out hover:scale-110 hover:text-[#f1d5b2]"
+			>the github link</a
 		>
 	</div>
 </section>
