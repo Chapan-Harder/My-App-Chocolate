@@ -24,7 +24,7 @@
 </script>
 
 <section
-	class="flex justify-center h-[160px] 2xl:px-44 xl:px-24 xl:h-[432px] md:h-[350px] mt-12 md:mt-0"
+	class="flex justify-center h-[160px] 2xl:px-44 xl:px-24 xl:h-[432px] md:h-[350px] mt-12 md:mt-0 max-md:mb-28"
 >
 	<div
 		class="flex h-full items-center w-full relative overflow-y-hidden overflow-x-hidden rounded-lg"

@@ -18,7 +18,7 @@
 
 <!-- Main-App Text Start-->
 <h1
-	class="flex justify-center items-center mt-24 mb-3 font-sans font-big-bold text-[#f1d5b2] capitalize text-2xl 2xl:text-7xl xl:text-6xl md:text-4xl"
+	class="flex justify-center items-center mt-24 mb-3 font-sans font-big-bold text-[#f1d5b2] capitalize text-xl 2xl:text-7xl xl:text-6xl md:text-4xl"
 >
 	<span class="transition hover:-translate-y-1">The</span>&nbsp;<span
 		class="transition hover:-translate-y-1">most</span

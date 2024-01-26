@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-<footer class="text-center mt-4 max-md:mt-28">
+<footer class="text-center mt-4">
 	<!-- Footer Links Start -->
 	<ul class="flex justify-center flex-wrap font-sans font-semibold">
 		<li>
