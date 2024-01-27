@@ -41,9 +41,10 @@
 		</ul>
 	</div>
 
-	<button
+	<a
+		href="online store"
 		class="bg-[#2a3a4f] flex items-center justify-center rounded-full border-2 border-[#f1d5b2] capitalize w-[140px] text-[#dcb9cd] transition ease-in-out delay-100 hover:bg-[#f1d5b2] hover:text-[#3b4f6b] font-serif font-normal italic"
-		>online store</button
+		>online store</a
 	>
 </nav>
 <!-- Navbar End -->

@@ -14,7 +14,11 @@
 <TheLine />
 
 <section class="flex justify-center mb-32 max-md:mb-12">
-	<img src={MePicture} alt="Me_Picture" class="max-md:hidden h-96 shadow-md shadow-[#dcb9cd]" />
+	<img
+		src={MePicture}
+		alt="Me_Picture"
+		class="max-md:hidden h-96 shadow-md shadow-[#dcb9cd] rounded-tl-2xl rounded-br-2xl"
+	/>
 
 	<div class="justify-center pl-10 md:w-[460px] max-md:pl-0">
 		<p class="font-sans font-big-bold text-[#f1d5b2] text-base">
